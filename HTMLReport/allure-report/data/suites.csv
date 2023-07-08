@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 02 13:33:29 IST 2023","Sun Jul 02 13:33:56 IST 2023","27172","TestCases","test_TC_001_Registration","","","","test_TC001_Validate_Registration",""
+"passed","Sun Jul 02 13:33:56 IST 2023","Sun Jul 02 13:34:24 IST 2023","28008","TestCases","test_TC_001_Registration","","","","test_TC002_Validate_Registration_Invaliddata",""
